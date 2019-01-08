@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">炫彩电灯</string>
+    <string name="action_settings">设置</string>
+    <string name="label_ssid">SSID:</string>
+    <string name="label_bssid">BSSID:</string>
+    <string name="label_password">密码:</string>
+    <string name="confignet">配置网络</string>
+    <string name="label_red">红色:</string>
+    <string name="label_green">绿色:</string>
+    <string name="label_blue">蓝色:</string>
+    <string name="send_data">发送</string>
+</resources>
